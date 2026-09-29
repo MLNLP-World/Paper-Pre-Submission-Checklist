@@ -1,0 +1,9 @@
+/autocheck/__pycache__
+/autocheck.egg-info
+
+/tests
+/test_tex copy
+/real_paper
+.DS_Store
+/test_real_paper
+/assets
